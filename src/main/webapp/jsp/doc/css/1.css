@@ -1,0 +1,46 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-family: "微软雅黑","Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei";
+    color: #555555;
+    font-size: 14px;
+    width: 100%;
+    background: #ffffff;
+}
+.content_box{
+    width: 1000px;
+   padding-left: 250px;
+}
+div, p, table, td, ul, li, span, a, ol, input, label {
+    padding: 0px;
+    margin: 0px;
+    border: 0px;
+}
+._top_title{
+    font-size: 36px;
+    color: #000000;
+    text-align: center;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+._top_time{
+    font-size: 16px;
+    color: #000;
+    margin-right: 35px;
+    text-align: center;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-indent:2em;
+}
+._content_list{
+    font-size: 16px;
+    color: #000000;
+    line-height: 32px;
+    margin-bottom: 13px;
+}
